@@ -10,4 +10,4 @@ Suppose there's a dog show going to occur in your city and you're going to volun
 2. Python knowledge 
 3. Time :)
 
-Thank you for visiting my repository
+**Thank you for visiting my repository**
