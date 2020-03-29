@@ -35,7 +35,7 @@
 #       below by the function definition of the adjust_results4_isadog function. 
 #       Notice that this function doesn't return anything because the 
 #       results_dic dictionary that is passed into the function is a mutable 
-#       data type so no return is needed.
+#       data type so no return is needed..
 # 
 def adjust_results4_isadog(results_dic, dogfile):
     """
