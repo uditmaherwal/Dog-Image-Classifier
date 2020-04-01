@@ -1,5 +1,5 @@
 # Dog Convolutional Neural Network Classifier
-![Udit Maherwal](https://img.shields.io/badge/Python-3.6-brightgreen.svg)
+![Udit Maherwal](https://img.shields.io/badge/Udit-Maherwal-yellowgreen) ![Python 3.6](https://img.shields.io/badge/Python-3.6-brightgreen.svg) ![CNN](https://img.shields.io/badge/CNN-red.svg) 
 
 This repository contains details about my project.
 
